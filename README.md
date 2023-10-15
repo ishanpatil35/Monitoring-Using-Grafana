@@ -106,10 +106,3 @@ Test PromQL
 rate(container_cpu_usage_seconds_total{name="redis"}[1m])
 container_memory_usage_bytes{name="redis"}
 
-![image](https://github.com/ishanpatil35/Monitoring-Using-Grafana/assets/115521898/7c909390-7d0d-4d62-a577-e3e0eed576ed)
-
-![image](https://github.com/ishanpatil35/Monitoring-Using-Grafana/assets/115521898/0973b591-edd2-4e9a-bc40-25253a90d336)
-
-![image](https://github.com/ishanpatil35/Monitoring-Using-Grafana/assets/115521898/66a6aba3-9567-459e-b8a5-57d83c48ff56)
-
-![image](https://github.com/ishanpatil35/Monitoring-Using-Grafana/assets/115521898/d05207df-c65e-42f6-be3c-d25e14aa28fd)
